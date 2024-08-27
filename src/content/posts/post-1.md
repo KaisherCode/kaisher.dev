@@ -2,9 +2,9 @@
 title: 'Aprendizaje sobre Astro'
 pubDate: 2022-07-01
 description: 'Este es la primera publicación de mi nuevo blog Astro.'
-author: 'Alumno de Astro'
+author: 'Kaisher'
 image:
-  url: 'https://docs.astro.build/assets/rays.webp'
+  url: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFwcmVuZGVyJTIwcHJvZ3JhbWFyfGVufDB8fDB8fHww'
   alt: 'El logotipo completo de Astro.'
 tags: ["astro", "bloguear", "aprender en público"]
 ---
