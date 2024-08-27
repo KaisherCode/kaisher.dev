@@ -7,35 +7,38 @@ const { title, description } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
-<div class="w-full">
-	<img
-		src={frontmatter.image.url}
-		class="rounded-lg mb-5 bg-cover"
-		width="500px"
-		height="300px"
-		alt={frontmatter.image.alt}
-	/>
-	<h2 class="font-bold text-3xl mt-s">{frontmatter.title}</h2>
-	<article>
-		Publicado: {frontmatter.pubDate.toString().slice(3, 15)}<span>
-			| <span>Escrito por: <a href="/about/">{frontmatter.author}</a></span>
-		</span>
-		<p transition:animate={fade({ duration: "2s" })}>
-			<em>{frontmatter.description}</em>
-		</p>
+	<div class="w-full">
+		<img
+			src={frontmatter.image.url}
+			class="rounded-lg mb-5 bg-cover"
+			width="500px"
+			height="300px"
+			alt={frontmatter.image.alt}
+		/>
+		<h2 class="font-bold text-3xl mt-s">{frontmatter.title}</h2>
+		<article>
+			Publicado: {frontmatter.pubDate.toString().slice(3, 15)}
+			<span>
+				| <span>Escrito por: <a href="/about/">{frontmatter.author}</a></span>
+			</span>
+			<p transition:animate={fade({ duration: "2s" })}>
+				<em>{frontmatter.description}</em>
+			</p>
 
-		<div class="flex flex-wrap">
-			{
-				frontmatter.tags.map((tag) => (
-					<p class="tag">
-						<a class="text-indigo-500/80" href={`/tags/${tag}`}>{tag}</a>
-					</p>
-				))
-			}
-		</div>
-		<slot />
-	</article>
-</div>
+			<div class="flex flex-wrap">
+				{
+					frontmatter.tags.map((tag) => (
+						<p class="tag">
+							<a class="text-indigo-500/80" href={`/tags/${tag}`}>
+								{tag}
+							</a>
+						</p>
+					))
+				}
+			</div>
+			<slot />
+		</article>
+	</div>
 </BaseLayout>
 <style>
 	.tag {
