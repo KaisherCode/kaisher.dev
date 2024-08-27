@@ -11,94 +11,83 @@ tags: ["astro", "bloguear", "aprender en público", "éxitos","aprender inglés"
 
 # **ENGLISH PHONOLOGY | FONOLOGÍA INGLESA**
 
-## __Regla 1:__
-Las vocales en inglés tiene 2 sonidos: Naturales y alterados.
 
-**Sonidos naturales**
+Las vocales en inglés tiene 2 sonidos: *Naturales y alterados.*
 
-*Ejemplos:*
+*Ejemplos/Examples :*
 
-✅__a ➡️ ei ➡️ park 🟰 park__
+|V. Español| Vocal Inglés |  Palabra  | Pronunciación |
+|----------|--------------|-----------|---------------|
+|    a     |     ei       |   Park    |    pɑːrk      |
+|    e     |     i        |   Expert  |    ek.spɝːt   |
+|    i     |     ai       |   Girl    |    ɡɝːl       |
+|    0     |     ou       |   Work    |    wɝːk       |
+|    u     |     iu       |   Nurse   |    nɝːs       |
 
-✅__e ➡️ i ➡️ expert 🟰 expert__
-
-✅__i ➡️ ai ➡️ girl 🟰 g3rl__
-
-✅__o ➡️ ou ➡️ work 🟰 w3rk__
-
-✅__u ➡️ iu ➡️ nurse 🟰 n3rs__
+## __Regla/Rule 1:__
 
 Cuando una vocal tiene 2 o más consonantes después de ella, la vocal pierde su sonido natural.
 
-✅ Bank
+✅ Bank ➡️ B`a`nk 🟰 Bank
 
-✅ West
+✅ West ➡️ W`e`st 🟰 West
 
-✅ First
+✅ First ➡️ F`i`rst 🟰 Fɝːst
 
-✅ Word
+✅ Word ➡️ W`o`rld 🟰 Wærld
 
-✅ Purse
+✅ Purse ➡️ P`u`rse 🟰 Pærs
 
-**Exception**
+**Excepción/Exception**
 
-Aquellas palabras que terminan en: -igh, -ight, -ign and -nd
+Aquellas palabras que terminan en: `-igh`, `-ight`, `-ign` y `-nd`.
 
-✅ __High ➡️ High 🟰 jaig__
+|  Palabra  | Pronunciación |
+|-----------|---------------|
+|    High   |    haɪ        |
+|   Light   |    laɪt       |
+|   Sign    |    saɪn       |
+|   Blind   |    blaɪnd     |
+|   Right   |    raɪt       |
+|   Design  |    dɪˈzaɪn    |
+|   Resign  |    rɪˈzaɪn    |
+|   Find    |    faɪnd      |
+|   Behind  |    bɪˈhaɪnd   |
 
-✅ __Light ➡️ Light 🟰 lait__
+## **Regla/Rule 2:**
 
-✅ __Sign ➡️ Sign 🟰 saig__
+Las vocales `i`, `o` y `u` una vez que han perdido su sonido natural y tienen delante una `r`, se pronuncian como `er`.
 
-✅ __Blind ➡️ Blind 🟰 blaind__
+**{i, o, u}:** + `R` 🟰 `er`
 
-✅ __Right ➡️ Right 🟰 rait__
+|  Palabra  | Pronunciación |
+|-----------|---------------|
+|   Shirt   |    ʃɝːt       |
+|   Flirt   |    flɝːt      |
+|   Worst   |    wɝːst      |
+|   Purse   |    pɝːs       |
+|  Thursday |    θɝːz.deɪ   |
+|   Burst   |    bɝːst      |
 
-✅ __Design ➡️ design 🟰 disain__
 
-✅ __Resign ➡️ resign 🟰 risain__
-
-✅ __Find ➡️ find 🟰 faind__
-
-✅ __Behind ➡️ behind 🟰 bijaind__
-
-## Regla 2:
-
-Las vocales `i`, `o` and `u` una vez que han perdido su sonido natural y tienen delante una `r`, se pronuncian como `er`.
-
-**{i, o, u}:** `R` 🟰 `er`
-
-✅ __Shirt ➡️ shirt 🟰 sh3rt__
-
-✅ __Flirt ➡️ Fl3rt 🟰 fl3rd__
-
-✅ __Worst ➡️ w3rst 🟰 w3rsd__
-
-✅ __Purse ➡️ pers 🟰 p3rs__
-
-✅ __Th**u**rsday ➡️ thursday 🟰 tersdey__
-
-✅ __Burst ➡️ bersd 🟰 b3rsd__
-
-## Regla 3:
+## **Regla/Rule 3:**
 
 La vocal `e` cuando está sola al final de una palabra no se pronuncia, por lo tanto se le llama `e` muda o silenciosa.
 
-✅ __Hate ➡️ Hat 🟰 jeit__
 
-✅ __Pete ➡️ Pet 🟰 pit__
+|Palabra    |Sin vocal `e`  | Pronunciación|
+|-----------|---------------|--------------|
+|Hate       |    Hat        |heit          |
+|Pete       |    Pet        |Pit           |
+|Hide       |    Hid        |hait          |
+|Note       |    Not        |Nout          |
+|Cute       |    Cut        |kju:t         |
 
-✅ __Hide ➡️ Hid 🟰 jait__
+**Excepción/Exception**
 
-✅ __Note ➡️ not 🟰 nout__
+Existen algunas palabras las cuales terminan en `e`, y sin embargo la vocal `e` si se pronuncia, por ser adpataci+on de Palbras del extranjero.
 
-✅ __Cute ➡️ cut 🟰 quit__
-
-**Exception**
-
-Existen algunas palabras las cuales terminan en `e`, y sin embargo esa `e` si se pronuncia.
-
-✅ Karate 
+✅ Karate `Palabra japonés`
 
 ✅ Sake
 
@@ -111,144 +100,135 @@ Existen algunas palabras las cuales terminan en `e`, y sin embargo esa `e` si se
 ✅ Chile
 
 
-## Regla 4:
+## **Regla/Rule 4:**
 
 Cuando una vocal tiene delante de ella una sola consonante, y después de la consonante hay una `e` muda, la vocal conserva su sonido natural.
 
-✅ __Hate ➡️ hat 🟰 jeit__
+|Palabra |Sin vocal `e`  |Pronunciación|
+|--------|---------------|-------------|
+|H`a`te  |    Hat        |heit         |
+|H`a`t   |    --         |hat          |
+|P`e`te  |    Pet        |pit          |
+|P`e`t   |    --         |pet          |
+|H`i`de  |    Hid        |haɪd         |
+|H`i`d   |    --         |hit (1)      | 
+|N`o`te  |    Not        |nout         |
+|N`o`t   |    --         |nat          |
+|C`u`te  |    Cut        |kjuːt        |
+|C`u`t   |    --         |cat          |
+|M`a`de  |    Mad        |meid (2)     | 
+|Th`e`se |    Thes       |ðiːz         |
+|L`i`ke  |    Lik        |laɪk         |
+|N`o`se  |    Nos        |noʊz         |
+|Us`e`   |    Us         |juːz         |
 
-✅ __Hat_ -> hat 🟰 jat__
 
-✅ __Pete ➡️ pet 🟰 pit__
+(1) `Pasado de Hide`
 
-✅ __Pet_ ➡️ pet 🟰 pet__
+(2) `Pasado de Hacer`
 
-✅ __Hide ➡️ hid 🟰 jait__
+**Excepción/Exception**
 
-✅ __Hid_ ➡️ Hid 🟰 jid__ `pasado de hide`
+✅ __Have ➡️ Hav 🟰 hæv__
 
-✅ __Note ➡️ not 🟰 nout__
+✅ __Live ➡️ Liv 🟰 lɪv__
 
-✅ __Not_ ➡️ not 🟰 nat__
+✅ __Love ➡️ Lov 🟰 lʌv__
 
-✅ __Cute ➡️ cut 🟰 quit__
+✅ __Move ➡️ Mov 🟰 muːv__
 
-✅ __Cut_ ➡️ cut 🟰 cat__
-
-✅ __Made ➡️ mad 🟰 meid__ `Pasado de hacer`
-
-✅ __These ➡️ Thes 🟰 Dis__
-
-✅ __Like ➡️ Lik 🟰 Laik__
-
-✅ __Nose ➡️ Nos 🟰 nous__
-
-✅ __Use ➡️ Us 🟰 uis__
-
-**Exception**
-
-✅ __Have ➡️ Hav 🟰 jav__
-
-✅ __Live ➡️ Liv 🟰 liv__
-
-✅ __Love ➡️ Lov 🟰 lov__
-
-✅ __Move ➡️ Mov 🟰 mov__
-
-## Regla 5:
+## **Regla 5:**
 
 Cuando una vocal tiene delante de ella una sola consonante, y después de la consonante no hay una `e` muda, la vocal pierde su sonido natural.
 
-✅ __Hate ➡️ Hat 🟰 jeit__
-
-✅ __Hat_ ➡️ Hat 🟰 hat__
-
-✅ __Pete ➡️ Pet 🟰 pet__
-
-✅ __Pet_ ➡️ Pet 🟰 pet__
-
-✅ __Hide ➡️ Hid 🟰 jaid__
-
-✅ __Note ➡️ Not 🟰 nout__
-
-✅ __Not_ ➡️ Not 🟰 nat__
-
-✅ __Cute ➡️ cut 🟰 qiut__
-
-✅ __Cut_ ➡️ cut 🟰 cat__
-
-## Regla 6:
-
-La `e` se desecha cuando está precesida por una sola consonante.
-
-✅ __Made ➡️ Mad__
-
-✅ __These ➡️ Thes__
-
-✅ __Hide ➡️ Hid__
-
-✅ __Note ➡️ Not__
-
-✅ __Cute ➡️ Cut__
-
-**Exception**
-
-Si la consonante que precede a la `e` es una `R`, entonces esa `E` no se desecha; La movemos y la colocamos antes de la `R`.
-
-✅ Fire 🟰 Fi3r
-
-✅ Hire 🟰 Hi3r
-
-✅ Pure 🟰 Pu3r
+|Palabra    |Sin vocal `e`  |Pronunciación|
+|-----------|---------------|-------------|
+|Hate       |    Hat        |heɪt         |
+|H`a`t      |    --         |hæt          |
+|Pete       |    Pet        |Pit          |
+|P`e`t      |    --         |pet          |
+|Hide       |    Hid        |haɪd         |
+|Note       |    Not        |noʊt         |
+|N`o`t      |    --         |nɑːt         |
+|Cute       |    Cut        |kjuːt        |
+|C`u`t      |    --         |kʌt          |
 
 
-## Regla 7:
+## **Regla/Rule 6:**
 
-La __E__ se recicla cuando está precedida por 2, o más consonantes.
+La vocal `e` se desecha cuando está precesida por una sola consonante.
+
+|Palabra    |Se desecha `e` |Pronunciación|
+|-----------|---------------|-------------|
+|Mad`e`     |Mad            |meɪd         |
+|Thes`e`    |Thes           |ðiːz         |
+|Hid`e`     |Hid            |haɪd         |
+|Not`e`     |Not            |noʊt         |
+|Cut`e`     |Cut            |kjuːt        |
+
+
+**Excepción/Exception**
+
+Si la consonante que precede a la vocal `e` es una `r`, entonces esa `e` no se desecha; La movemos y la colocamos antes de la `r`.
+
+|Palabra    |Colocar `e` antes de `r`|Pronunciación|
+|-----------|------------------------|-------------|
+|Fir`e`     |Fi`e`r                  |faɪr         |
+|Hir`e`     |Hi`e`r                  |haɪr         |
+|Pur`e`     |Pu`e`r                  |pjʊr         |
+
+
+## **Regla/Rule 7:**
+
+La vocal `e` se recicla cuando está precedida por 2, o más consonantes.
 
 __Ley de las fonemas:__ dos fonemas consonanticos no pueden generar una sílaba.
 
-✅ __Ogre ➡️ Oger 🟰 ouger__, reciclamos la `e`
+|Palabra    |Se recicla `e` |Pronunciación |
+|-----------|---------------|--------------|
+|Ogr`e`     |Og`e`r         |oʊ.ɡɚr        |
+|Tabl`e`    |Tab`e`l        |teɪ.bəl(1)    |   
+|Cabl`e`    |Cab`e`l        |keɪ.bəl       |
+|Centr`e`   |Cent`e`r       |sen.t̬ɚr(2)    |
+|Theatr`e`  |Theat`e`r      |θiː.ə.t̬ɚr(3)  |
 
-✅ __Table ➡️ Tabel 🟰 tebel__, la 'e' en inglés tiene sonido **gutural**, en español tiene sonido **paladar**.
+(1) La `e` en inglés tiene sonido `gutural`, en español tiene sonido `paladar`
 
-✅ __Cable ➡️ cabel 🟰 cabel__
+(2) Se escribe `Centre` en inglés británico. Los americanos decidieron escribir como suena `Center`.
 
-✅ __Centre ➡️ center 🟰 center__, centre se escribe en inglés británico.
-
-✅ __Theatre ➡️ theater 🟰tider__, Los americanos decidieron escribir como suena.
+(3) Se escribe `Theatre` en inglés británico. Los americanos decidieron escribir como suena `Theater`. *Pronunc. Ti.ə.tɚr*
 
 
-## Regla 8:
+## **Regla/Rule 8:**
 
 Cuando hay 2 consonantes juntas se elimina la más débil.
 
-✅ __Listen ➡️ Lis3n__    `s` and `t`, eliminamos la `t`
+|Palabra   |Sin cons. débil |Pronunciación |
+|----------|----------------|--------------|
+|Li`st`en  |    Lisen       |Lɪs.ən(1)     |
+|Twe`nt`y  |    Tweny       |Twen.t̬i       |   
+|O`ft`en   |    Ofen        |ɑːf.tən       |
+|I`sl`and  |    Iland       |aɪ.lənd       |
+|Plu`mb`er |    Plumer      |Plʌm.ær       |
+|An`sw`er  |    Anser       |æn.sɚr        |
 
-✅ __Twenty ➡️ Tweny__      `n` and `t`, eliminamos la `t`
+(1) Entre los consonante `s` y `t`, eliminamos la `t` por ser la más débil.
 
-✅ __Often ➡️ Ofen__
 
-✅ __Island ➡️ Iland__
+**Ejemplo/Example:**
 
-✅ __Plumber ➡️ Plumer__
+✅ __Wh`i`s`t`l`e` ➡️ Wh`i`s`e`l 🟰 wɪs.əl__*, Pasos: Reciclamos la última vocal `e`, elimnamos consonante débil `t`,  y la vocal `i` pierde su sonido natural.*
 
-✅ __Answer ➡️ Anser__
+✅ __N`e`s`t`l`e` ➡️ N`e`s`e`l 🟰 nes.əl__*, Pasos: Reciclamos la última vocal `e`, eliminamos consonante débil `t`, y la 1ra vocal `e` pierdo su sonido natural.*  
+    
+✅ __C`a`s`t`l`e` ➡️ cas`e`l 🟰 kæs.əl__*, Pasos: Reciclamos la última vocal `e`, elimnamos consonante débil `t`, y la vocal `a` pierde su sonido natural.*
 
-**Example:**
 
-✅ __Whistle ➡️ Whisel 🟰 wisel__, Reciclamos la `e`, la `i` pierde su sonido natural.
 
-✅ __Nestle ➡️ Nestel 🟰 nesel__
-    1. reciclamos la `e`
-    2. la 1ra `e` pierde su sonido natural
-    3. Eliminamos la consonante más débil
 
-✅ __Castle ➡️ castel 🟰 casel__
-    1. reciclamos la `e`
-    2. la 1ra `a` pierde su sonido natural
-    3. Eliminamos la consonante más débil
+__RECURSOS/RESOURCES__
 
+[Diccionario Cambridge]('https://dictionary.cambridge.org/es')
 
 [BROAD LANGUAGE INSTITUTE]('https://bli-us.com/')
 
