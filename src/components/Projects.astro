@@ -4,6 +4,8 @@ import LinkButton from "@/components/LinkButton.astro";
 import GitHub from "@/icons/github.astro";
 import Link from "@/icons/Link.astro";
 import AstroIcon from "@/icons/Astro.astro";
+import WordPress from "@/icons/WordPress.astro";
+import Svgl from "@/icons/Svgl.astro";
 const TAGS = {
   ASTRO:{
     name:"Astro",
@@ -15,26 +17,45 @@ const TAGS = {
 		class: "bg-[#003159] text-white",
 		icon: Tailwind,
 	},
+	WORDPRESS: {
+		name: "WordPress",
+		class: "bg-[#003159] text-white",
+		icon: WordPress,
+	},
+	SVGL: {
+		name: "Svgl",
+		class: "bg-[#003159] text-white",
+		icon: Svgl,
+	},
 };
 
 const PROJECTS = [
 	{
+		title: "C&W S.A.C. - Sitio web de Saneamientos Ambientales.",
+		description:
+			"Página web desarrollado desde cero utilizando frameworks (Astro, Tailwind CSS), Herramientas y utilitarios (SVGL.app).",
+		link: "https://cywsac.com",
+		github: "https://github.com/",
+		image: "/projects/cywsac.webp",
+		tags: [TAGS.TAILWIND,TAGS.ASTRO,TAGS.SVGL],
+	},
+	{
 		title: "Batatabit - Sitio web de intercambio de criptomonedas",
 		description:
-			"Trae información en tiempo real de las tasas de cambio y las monedas más importantes del mundo.",
+			"Proyecto creado con fines didacticos y de aprendizaje. Desarrollado con Astro, Tailwind CSS y herramientas como SVGL.app",
 		link: "https://batatabit-coin.netlify.app/",
 		github: "https://github.com/KaisherCode/batatabit",
 		image: "/projects/batatabit.webp",
-		tags: [TAGS.TAILWIND,TAGS.ASTRO],
+		tags: [TAGS.TAILWIND,TAGS.ASTRO,TAGS.SVGL],
 	},
 	{
-		title: "Waritravels - Sitio de web de destinos turísticos.",
+		title: "Villacontrols - Página web de diseño y desarrollo de circuitos.",
 		description:
-			"Plataforma donde puedes encontrar información para tu viaje, sitios arqueológicos, y lugares turísticos.",
-		link: "https://waritravels.netlify.app",
-		github: "https://github.com/KaisherCode/waritravels",
-		image: "/projects/waritravels.webp",
-		tags: [TAGS.TAILWIND,TAGS.ASTRO],
+			"Sitio web diseñado y construido utilizando herramientas como el editor gutemberg de WordPress.",
+		link: "https://villacontrolsperu.com",
+		github: "",
+		image: "/projects/villacontrol.webp",
+		tags: [TAGS.WORDPRESS],
 	},
 ];
 ---
@@ -42,7 +63,7 @@ const PROJECTS = [
 <div class="flex flex-col gap-y-16">
 	{
 		PROJECTS.map(({ title, description, link, image, tags, github }) => (
-			<article class="flex flex-col space-x-0 space-y-8 group md:flex-row md:space-x-8 md:space-y-0 px-4">
+			<article class="flex flex-col space-x-0 space-y-8 group md:flex-row md:space-x-8 md:space-y-0">
 				<div class="w-full md:w-1/2">
 					<div class="relative h-64 flex flex-col items-center col-span-6 row-span-5 gap-8 transition duration-500 ease-in-out transform shadow-xl overflow-clip rounded-xl sm:rounded-xl md:group-hover:-translate-y-1 md:group-hover:shadow-2xl lg:border lg:border-gray-800 lg:hover:border-gray-700 lg:hover:bg-gray-800/50">
 						<img

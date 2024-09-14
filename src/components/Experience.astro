@@ -1,34 +1,39 @@
 ---
 import ExperienceItem from "@/components/ExperienceItem.astro";
 const EXPERIENCE = [
-  {
+	{
+		date: "Actualmente ...",
+		title: "Principal Frontend Developer",
+		company: "Saneaminetos Ambientales C&W S.A.C.",
+		description:
+			"Responsable de la página web, componentes y utilidades para el diseño y desarrollo de la página web. Optimización de velocidad de navegación, se utilizan formatos de archivos compactos como WebP para imágenes.",
+		link: "https://cywsac.com/",
+	},
+	{
 		date: "Septiembre 2023",
-    title: "Principal Frontend Developer",
-    company: "VILLA CONTROL",
-    description: "Desarrollo y mantenimiento de varias aplicaciones web utilizando RecatJS, JavaScript, HTML y CSS. Trabajé en estrecha colaboración con el equipo de UI/UX para diseñar e implementar interfaces de usuario dinámicas y con capacidad de respuesta.",
-    link: "https://villacontrolperu.com/"
-  },
-  {
+		title: "Principal Frontend Developer",
+		company: "VILLA CONTROL PERU S.A.C.",
+		description:
+			"Desarrollo y mantenimiento de varias aplicaciones web utilizando RecatJS, JavaScript, HTML y CSS. Trabajé en estrecha colaboración con el equipo de UI/UX para diseñar e implementar interfaces de usuario dinámicas y con capacidad de respuesta.",
+		link: "https://villacontrolperu.com/",
+	},
+	{
 		date: "Mayo 2022",
-    title: "Frontend Developer",
-    company: "FV PERU",
-    description: "Optimización de páginas web para velocidad y SEO implementando técnicas como lazy loading, code splitting y compresión. Implementación de funcionalidades avanzadas como validación, enrutamiento y visualización de datos. Colaboración con el equipo de back-end para asegurar una perfecta integración entre front-end y back-end. ",
+		title: "Frontend Developer",
+		company: "F&V PERU S.A.C.",
+		description:
+			"Optimización de páginas web para velocidad y SEO implementando técnicas como lazy loading, code splitting y compresión. Implementación de funcionalidades avanzadas como validación, enrutamiento y visualización de datos. Colaboración con el equipo de back-end para asegurar una perfecta integración entre front-end y back-end. ",
+		link: "https://fvperu.com.pe"
 	},
-  {
-		date: "Agosto 2019",
-    title: "Full Stack Developer",
-    company: "HOUSE CONTAINER",
-    description: "Desarrollo y mantenimiento del sitio web utilizando tecnologías HTML, CSS y JavaScript. Colaboración con el equipo de UI/UX para diseñar e implementar interfaces de usuario responsivas y dinámicas.",
-	},
-];
+	];
 ---
 
 <ol class="relative mt-16">
-  {
-    EXPERIENCE.map((experience)=>(
-      <li>
-        <ExperienceItem {...experience}/>
-      </li>
-    ))
-  }
+	{
+		EXPERIENCE.map((experience) => (
+			<li>
+				<ExperienceItem {...experience} />
+			</li>
+		))
+	}
 </ol>
