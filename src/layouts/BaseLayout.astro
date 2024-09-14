@@ -21,42 +21,60 @@ const { title, description } = Astro.props;
 		<ViewTransitions />
 	</head>
 	<body>
-      <Header />
-      <slot />
-      <Footer />
-    
+		<Header />
+		<slot />
+		<Footer />
 	</body>
 </html>
 <script>
-  import "@/scripts/menu.js";
+	import "@/scripts/menu.js";
 </script>
 <style is:global>
-  :root {
-    color-scheme: light dark;
-  }
+	:root {
+		color-scheme: light dark;
+	}
 
-  * {
-    box-sizing: border-box;
-  }
+	* {
+		box-sizing: border-box;
+	}
 
-  html {
-    background-color: #f1f5f9;
-    font-family: "DM Sans", system-ui;
-    scroll-behavior: smooth;
-  }
+	html {
+		background-color: #f1f5f9;
+		font-family: "DM Sans", system-ui;
+		scroll-behavior: smooth;
+	}
 
-  /* Estilos css para dark mode*/
-  html.dark {
-    background-color: #1d1c1c;
-    color: #fff;
-  }
+	/* Estilos css para dark mode*/
+	html.dark {
+		background-color: #1d1c1c;
+		color: #fff;
+	}
 
-  body {
-    margin: 0 auto;
-    width: 100%;
-    line-height: 1.5;
-    max-width: 100ch;
+	body {
+		margin: 0 auto;
+		width: 100%;
+		line-height: 1.5;
+		max-width: 100ch;
+		scroll-behavior: none;
+	}
 
-  }
+	@media (prefers-reduced-motion: reduce) {
+		html {
+			scroll-behavior: auto;
+		}
+	}
 
+	@keyframes blur {
+		to {
+			backdrop-filter: blur(20px);
+			border-width: 1px;
+			border-color: rgba(0, 0, 0);
+			padding: 0.25rem 0.75rem;
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			background-color: rgb(229, 229, 229);
+			border-radius: 9999px;
+		}
+	}
 </style>
